@@ -6,7 +6,7 @@ import Typography from '@mui/material/Typography';
 
 
 const API = {
-  key: '08ce9bb2f73aeeabab05a43ff7eabe43',
+  key: 'YOUR_API_KEY',
   base: `https://api.openweathermap.org/data/2.5/`
 };
 
